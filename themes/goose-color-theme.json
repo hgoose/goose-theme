@@ -2,10 +2,24 @@
 	"name": "goose",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"activityBar.activeBackground":"#ff0000",
+		"activityBar.border":"#9900cc",
+		"activityBar.background":"#9900cc",
+		"sideBar.foreground":"#000000",
+		"sideBar.background":"#ffffff",
+		"toolbar.activeBackground":"#ff0000",
+		"toolbar.hoverOutline":"#ff0000",
+		"toolbar.hoverBackground":"#ff0000",
+		// "window.activeBorder":"#e425a4",
+		"selection.background":"#ffffff",
+		"widget.shadow":"#ff33cc",
+		// "focusBorder":"#ff0000",
+		"contrastBorder": "#333333",
+		// "contrastActiveBorder":"#ff0000",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#e00404",
+		"sideBarTitle.foreground": "#e00404" 
 	},
 	"tokenColors": [
 		{
