@@ -1,8 +1,27 @@
 {
     "name": "goose",
     "displayName": "goose",
-    "description": "goose",
+    "description": "goose theme",
     "version": "0.0.1",
+    "publisher": "goosemane",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hgoose/goose-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "goose",
+        "pink",
+        "high contrast",
+        "purple",
+        "goosemane",
+        "noodle",
+        "coder",
+        "noodl",
+        "rust",
+        "c++"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
