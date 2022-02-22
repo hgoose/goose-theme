@@ -2,6 +2,19 @@
 	"name": "goose",
 	"type": "dark",
 	"colors": {
+		
+		"editor.lineHighlightBorder":"#ff33cc",
+		// "editor.lineHighlightBackground":"#ff0000",
+
+		"editor.selectionHighlightBorder":"#ff33cc",
+		"editor.inactiveSelectionBackground":"#9900cc",
+		"editor.selectionBackground":"#9900cc",
+		"editor.selectionForeground":"#ffffff",
+		"editorLineNumber.activeForeground":"#9900cc",
+		"tab.border":"#ffffff",
+		"editorGroupHeader.tabsBorder":"#ffffff",
+		"editorGroupHeader.noTabsBackground":"#9900cc",
+		"editorGroupHeader.tabsBackground":"#9900cc",
 		"activityBar.activeBackground":"#ff0000",
 		"activityBar.border":"#9900cc",
 		"activityBar.background":"#9900cc",
