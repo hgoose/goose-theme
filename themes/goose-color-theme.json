@@ -4,7 +4,7 @@
 	"colors": {
 		"statusBar.foreground":"#9900cc",
 		"statusBar.border":"#ffffff",
-		"statusBar.background":"#ff0000",
+		// "statusBar.background":"#ff0000",
 		"editor.lineHighlightBorder":"#ff33cc",
 		// "editor.lineHighlightBackground":"#ff0000",
 
