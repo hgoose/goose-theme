@@ -11,8 +11,12 @@
 		"editor.selectionBackground":"#9900cc",
 		"editor.selectionForeground":"#ffffff",
 		"editorLineNumber.activeForeground":"#9900cc",
-		"tab.border":"#ffffff",
-		"editorGroupHeader.tabsBorder":"#ffffff",
+		// "tab.activeBorderTop":"#ff0000",
+		// "tab.unfocusedActiveBorder":"#ff0000",
+		// "tab.unfocusedActiveBorderTop":"#ff0000",
+		// "tab.activeBorder":"#ff0000",
+		// "tab.border":"#ffffff",
+		// "editorGroupHeader.tabsBorder":"#ffffff",
 		"editorGroupHeader.noTabsBackground":"#9900cc",
 		"editorGroupHeader.tabsBackground":"#9900cc",
 		"activityBar.activeBackground":"#ff0000",
@@ -43,7 +47,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#3d3d3d"
 			}
 		},
 		{
@@ -83,13 +87,13 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff33cc"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
+				
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -103,7 +107,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -127,7 +131,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -136,7 +140,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff000d"
 			}
 		},
 		{
@@ -162,7 +166,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -177,7 +181,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#00ff55"
 			}
 		},
 		{
@@ -295,7 +299,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00ff2a"
 			}
 		},
 		{
