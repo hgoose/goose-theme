@@ -62,7 +62,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#0ddddd"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#0f82ed"
 			}
 		},
 		{
