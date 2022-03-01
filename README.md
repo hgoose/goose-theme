@@ -2,6 +2,9 @@
 ```
 An Elegent Theme, made by goosmane
 ```
+```
+Works best with glassit for VSCode
+```
 ---
 <p align="center">
     PREVIEW
@@ -9,7 +12,7 @@ An Elegent Theme, made by goosmane
 
 [github](https://github.com/hgoose)
 
-![a](https://i.imgur.com/vmwGU7A.png)
+![a](https://i.imgur.com/JfjJX8o.png)
 
 ---
 <p align="center">
